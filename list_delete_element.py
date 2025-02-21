@@ -4,6 +4,10 @@
 # pop()
 # remove()
 # clear()
+# update()
+# insert()
+# append()
+# extends()
 
 # Del:
 
