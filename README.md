@@ -1,4 +1,5 @@
 🐍 Python Programming Mastery 📚
+
 Welcome to the Python Programming Mastery course! This README provides you with a detailed guide to navigate through the course, starting from basic concepts to advanced Python techniques. By the end of this course, you will be fully equipped with all the skills required to master Python and build real-world projects.
 
 📖 Table of Contents
